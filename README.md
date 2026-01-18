@@ -11,7 +11,7 @@ domains (pre-SDTM clinical data) for oncology trials based on Case
 Report Forms (CRFs). The simulated data are designed to closely resemble
 real-world oncology trial data and can be used by researchers as
 training datasets to develop and test AI-enabled workflows for data
-processing and TFL automation.
+processing and TFL automation. The annotated CRFs are stored in the /acrf folder. 
 
 ## Installation
 
