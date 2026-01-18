@@ -1,0 +1,59 @@
+
+# oncraw
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The oncraw package provides an easy-to-use tool for generating raw data domains (pre-SDTM clinical data) for oncology trials based on Case Report Forms (CRFs). 
+The simulated data are designed to closely resemble real-world oncology trial data and can be used by researchers as training datasets to develop and test AI-enabled workflows for data processing and TFL automation.
+
+## Installation
+
+You can install the development version of oncraw from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("pak")
+pak::pak("eric-zhang16/oncraw")
+```
+
+## Example
+
+All you need to specify is how many patients. 
+Let's say you want data generated for N=5 patients. 
+
+``` r
+library(oncraw)
+
+# Generate raw domains for 5 patients 
+domains <- genRaw(N=5)
+
+# DM domain: demographic data 
+dm <- domains$dm
+dm
+
+# TU domain: tumor evaluation data
+tu <- domains$tu
+head(tu)
+
+# RS domain: response assessment data
+rs <- domains$rs
+head(rs)
+
+# AE domain: adverse event data
+ae <- domains$ae
+head(ae)
+
+# DD domain: death data (returns NULL if no deaths occurred)
+dd <- domains$dd
+head(dd)
+
+# DS domain: disposition data (returns NULL if no disposition records exist)
+ds <- domains$ds
+head(ds)
+
+# EX domain: exposure data
+ex <- domains$ae
+head(ex)
+
+```
+
