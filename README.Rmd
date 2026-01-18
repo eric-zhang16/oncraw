@@ -67,7 +67,7 @@ ds <- domains$ds
 head(ds)
 
 # EX domain: exposure data
-ex <- domains$ae
+ex <- domains$ex
 head(ex)
 ```
 
