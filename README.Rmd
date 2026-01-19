@@ -34,7 +34,7 @@ pak::pak("eric-zhang16/oncraw")
 ## Example
 
 All you need to specify is how many patients. 
-Let's say you want data generated for N=5 patients. 
+Assume you want data generated for N=5 patients. 
 
 ```{r example,echo = TRUE}
 library(oncraw)
