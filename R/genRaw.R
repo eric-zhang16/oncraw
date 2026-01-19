@@ -515,7 +515,7 @@ genRaw <- function(N){
       eot.yes <- sample(c(0,1),size=1,prob=c(0.8,0.2))
       if(eot.yes==1){
         DSCAT <- 'End of Treatment'
-        DSDECOD <- sample(c('Lost To Follow-up','Physician Decision','Withdrawal by Subject','Protocol Deviation','Completed'),size=1)
+        DSDECOD <- sample(c('Lost To Follow-up','Physician Decision','Withdrawal by Subject','Protocol Deviation','Completed'),size=1,pro=c(0.1,0.1,0.1,0.1,0.6))
         start.eot <- max(max(rs$RSDAT),max(ae$AEENDT,na.rm=TRUE),na.rm=T)
         DSDAT <- start.eot + sample(seq(1,21),size=1)
       }
