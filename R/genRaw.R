@@ -383,9 +383,9 @@ genRaw <- function(N){
         AETOXGR <- sample(c("Grade 1","Grade 2","Grade 3","Grade 4","Grade 5"), size=1, prob=c(0.3,0.3,0.24,0.15,0.01))
         AESER <- sample( c('Y','N'),size=1,  prob=c(0.2,0.8)  )
         if(ae2dc.yes==0){
-          AEACN <- sample(  c('Dose Not Changed', 'Dose Interrupted', 'Dose Reduced', 'Drug Withdrawn'), size=1, prob=c(0.7,0.2,0.05,0.05)  )
+          AEACN <- sample(  c('Dose Not Changed', 'Dose Interrupted', 'Dose Reduced', 'Drug Withdrawn'), size=1, prob=c(0.9395,0.05,0.01,0.0005)   )
         } else {
-          AEACN <- sample(  c('Dose Not Changed', 'Dose Interrupted', 'Dose Reduced'), size=1, prob=c(0.75,0.2,0.05)  )
+          AEACN <- sample(  c('Dose Not Changed', 'Dose Interrupted', 'Dose Reduced'), size=1, prob=c(0.94,0.05,0.01)   )
         }
 
         AEONGO <- sample(c('N','Y'),size=1,prob=c(0.7,0.3))
