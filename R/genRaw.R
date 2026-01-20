@@ -357,7 +357,7 @@ genRaw <- function(N){
 
     enrdt <- dm$ENRDT
     n.scan <- nrow(rs)
-    rs.maxdate <- max(rs$RSDAT) # fatal AE can only occur after max rs$RSDAT
+    rs.maxdate <- max(rs$RSDAT, na.rm=T) # fatal AE can only occur after max rs$RSDAT
     if(rs$OVRLRESP[n.scan]=='PD'){
       ae.period <- n.scan*6*7
     } else {
@@ -412,6 +412,9 @@ genRaw <- function(N){
           AESER <- 'Y'
           AEENDT <- AESTDT + ceiling(exp(rnorm(1,mean=1.94,sd=1.4)))
           AEONGO <- 'N'
+          if(is.na(rs.maxdate)){
+            AEACN <- 'Drug Withdrawn'
+          }
         }
 
 
@@ -503,12 +506,7 @@ genRaw <- function(N){
       DSCAT <- 'End of Treatment'
       DSDECOD <- 'Progressive Disease'
       DSDAT <- pd.date
-    } else if(!is.na(fatal.ae.date)){
-      eot.yes <- 1
-      DSCAT <- 'End of Treatment'
-      DSDECOD <- 'Adverse Event'
-      DSDAT <- fatal.ae.date
-    } else if(!is.na(dth.date)){
+    } else if(!is.na(dth.date)){  # non-fatal AE death
       eot.yes <- 1
       DSCAT <- 'End of Treatment'
       DSDECOD <- 'Death'
