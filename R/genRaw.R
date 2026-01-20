@@ -479,7 +479,9 @@ genRaw <- function(N){
   #### (5) ds domain (EOT and EOS) ####
 
   ds.fun <- function(dm,rs,ae,dd){
+    enrol.date <- dm$ENRDT[1]
     pd.date <- subset(rs,OVRLRESP=='PD')$RSDAT[1]
+    rs.maxdur <- as.Date(max(rs$RSDAT,na.rm=T)) - enrol.date + 1
     fatal.ae.date <- subset(ae,AEOUT=='Fatal')$AEENDT[1]
     ae2dc.date <- subset(ae,AEACN=='Drug Withdrawn')$AESTDT[1]
     if(is.null(dd)){
@@ -511,11 +513,16 @@ genRaw <- function(N){
       DSCAT <- 'End of Treatment'
       DSDECOD <- 'Death'
       DSDAT <- dth.date
+    } else if(  !is.na(rs.maxdur) & rs.maxdur > 365){
+      eot.yes <- 1
+      DSCAT <- 'End of Treatment'
+      DSDECOD <- 'Completed'
+      DSDAT <- max(rs$RSDAT,na.rm=T) +7
     } else {
       eot.yes <- sample(c(0,1),size=1,prob=c(0.8,0.2))
       if(eot.yes==1){
         DSCAT <- 'End of Treatment'
-        DSDECOD <- sample(c('Lost To Follow-up','Physician Decision','Withdrawal by Subject','Protocol Deviation','Completed'),size=1,pro=c(0.1,0.1,0.1,0.1,0.6))
+        DSDECOD <- sample(c('Lost To Follow-up','Physician Decision','Withdrawal by Subject','Protocol Deviation'),size=1)
         start.eot <- max(max(rs$RSDAT),max(ae$AEENDT,na.rm=TRUE),na.rm=T)
         DSDAT <- start.eot + sample(seq(1,21),size=1)
       }
@@ -591,6 +598,7 @@ genRaw <- function(N){
     ex <- c()
     dose.reduce <- 0
     for(i in 1:n.cycle){
+      VISIT <- paste0('Cycle ',n.cycle,sep='')
       EXSTDT <- enrol.date + (i-1)*21
       EXPDOSE <- 200*(1-0.25*dose.reduce)
       EXADJ <- sample(c('Y','N'),size=1,prob=c(0.2,0.8))
@@ -611,7 +619,7 @@ genRaw <- function(N){
         EXADOSE <- EXPDOSE
       }
 
-      ex.tmp <- data.frame(SUBJID=dm$SUBJID,ENRDT=dm$ENRDT,DLCRT=dm$DLCRT,EXTRT,EXSTDT,EXPDOSE,EXADOSE,EXADJ,EXAREAS)
+      ex.tmp <- data.frame(SUBJID=dm$SUBJID,ENRDT=dm$ENRDT,DLCRT=dm$DLCRT,EXTRT,VISIT,EXSTDT,EXPDOSE,EXADOSE,EXADJ,EXAREAS)
       ex <- rbind(ex,ex.tmp)
     }
     return(ex)
