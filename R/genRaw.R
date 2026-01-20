@@ -137,7 +137,7 @@ genRaw <- function(N){
       TUDIAM <- rep(NA,n.tar)
       TUSTAT <- rep(NA,n.tar)
       for(jj in 1:n.tar){
-        measure.yes <- sample(c(0,1),size=1,prob=c(0.1,0.9))
+        measure.yes <- sample(c(0,1),size=1,prob=c(0.01,0.99))
         if(measure.yes ==1 ){
           TUSTAT[jj] <- 'Measurable'
           TUDIAM [jj] <- (1+pch.tumor(scan=j))*tutr.tar.screen$TUDIAM[jj]
