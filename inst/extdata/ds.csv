@@ -1,0 +1,35 @@
+"SUBJID","ENRDT","DLCRT","DSCAT","DSDECOD","DSDAT"
+"SUBJID1",2026-02-08,"400 mg","End of Treatment","Progressive Disease",2026-10-19
+"SUBJID2",2026-01-13,"300 mg","End of Treatment","Progressive Disease",2026-05-23
+"SUBJID2",2026-01-13,"300 mg","End of Study","Death",2026-07-11
+"SUBJID3",2026-10-07,"300 mg","End of Treatment","Death",2027-03-15
+"SUBJID3",2026-10-07,"300 mg","End of Study","Death",2027-03-15
+"SUBJID4",2026-05-07,"200 mg","End of Treatment","Progressive Disease",2026-10-26
+"SUBJID5",2026-02-19,"200 mg","End of Treatment","Progressive Disease",2026-06-28
+"SUBJID6",2026-04-24,"200 mg","End of Treatment","Progressive Disease",2026-07-18
+"SUBJID8",2026-03-17,"300 mg","End of Treatment","Progressive Disease",2026-05-04
+"SUBJID8",2026-03-17,"300 mg","End of Study","Death",2026-07-13
+"SUBJID9",2026-11-16,"200 mg","End of Treatment","Adverse Event",2027-02-12
+"SUBJID10",2026-04-12,"200 mg","End of Treatment","Progressive Disease",2026-07-09
+"SUBJID12",2026-02-04,"400 mg","End of Treatment","Progressive Disease",2026-07-25
+"SUBJID13",2026-11-08,"200 mg","End of Treatment","Withdrawal by Subject",2027-02-21
+"SUBJID14",2026-05-18,"400 mg","End of Treatment","Progressive Disease",2026-06-29
+"SUBJID14",2026-05-18,"400 mg","End of Study","Death",2026-09-18
+"SUBJID15",2026-03-15,"300 mg","End of Treatment","Withdrawal by Subject",2026-06-15
+"SUBJID17",2026-11-04,"400 mg","End of Treatment","Progressive Disease",2027-01-29
+"SUBJID17",2026-11-04,"400 mg","End of Study","Death",2027-04-25
+"SUBJID18",2026-03-14,"200 mg","End of Treatment","Progressive Disease",2026-04-27
+"SUBJID19",2026-01-14,"200 mg","End of Treatment","Progressive Disease",2026-05-23
+"SUBJID19",2026-01-14,"200 mg","End of Study","Death",2026-08-18
+"SUBJID20",2026-10-05,"200 mg","End of Treatment","Progressive Disease",2026-11-16
+"SUBJID21",2026-05-27,"400 mg","End of Treatment","Progressive Disease",2026-09-30
+"SUBJID23",2026-08-09,"200 mg","End of Treatment","Progressive Disease",2026-11-05
+"SUBJID24",2026-02-24,"400 mg","End of Treatment","Progressive Disease",2026-04-06
+"SUBJID24",2026-02-24,"400 mg","End of Study","Death",2026-05-18
+"SUBJID25",2026-11-19,"200 mg","End of Treatment","Death",2027-01-24
+"SUBJID25",2026-11-19,"200 mg","End of Study","Death",2027-01-24
+"SUBJID26",2026-07-13,"300 mg","End of Treatment","Death",2026-09-06
+"SUBJID26",2026-07-13,"300 mg","End of Study","Death",2026-09-06
+"SUBJID28",2026-05-02,"400 mg","End of Treatment","Death",2026-09-22
+"SUBJID28",2026-05-02,"400 mg","End of Study","Death",2026-09-22
+"SUBJID30",2026-08-22,"400 mg","End of Treatment","Progressive Disease",2026-11-14

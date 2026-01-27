@@ -1,0 +1,507 @@
+"SUBJID","ENRDT","DLCRT","VISIT","TUCAT","TULNKID","TULOC","TUDAT","TUDIAMI","TUSTAT","TUDIAM","TUEVAL"
+"SUBJID1",2026-02-08,"400 mg","Screening","Non-Target","NT1","Brain",2026-02-11,NA,NA,NA,NA
+"SUBJID1",2026-02-08,"400 mg","Screening","Non-Target","NT2","Kideny",2026-02-11,NA,NA,NA,NA
+"SUBJID1",2026-02-08,"400 mg","Screening","Target","T1","Brain",2026-02-11,"Longest Diameter for Extranodal Lesions","Measurable",41.6714945320191,NA
+"SUBJID1",2026-02-08,"400 mg","Screening","Target","T2","Larynx",2026-02-11,"Longest Diameter for Extranodal Lesions","Measurable",30.0482403366077,NA
+"SUBJID1",2026-02-08,"400 mg","Screening","Target","T3","Esophagus",2026-02-11,"Longest Diameter for Extranodal Lesions","Measurable",32.3302488380242,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 1","Non-Target","NT1","Brain",2026-03-24,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 1","Non-Target","NT2","Kideny",2026-03-24,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 1","Target","T1","Brain",2026-03-24,"Longest Diameter for Extranodal Lesions","Measurable",39.0696167884452,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 1","Target","T2","Larynx",2026-03-24,"Longest Diameter for Extranodal Lesions","Measurable",21.3969402733382,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 1","Target","T3","Esophagus",2026-03-24,"Longest Diameter for Extranodal Lesions","Measurable",30.5877607566598,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 2","Non-Target","NT1","Brain",2026-05-04,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 2","Non-Target","NT2","Kideny",2026-05-04,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 2","Target","T1","Brain",2026-05-04,"Longest Diameter for Extranodal Lesions","Measurable",33.6816302853256,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 2","Target","T2","Larynx",2026-05-04,"Longest Diameter for Extranodal Lesions","Measurable",31.5529230146577,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 2","Target","T3","Esophagus",2026-05-04,"Longest Diameter for Extranodal Lesions","Measurable",31.244882565216,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 3","Non-Target","NT1","Brain",2026-06-16,NA,NA,NA,"Absent"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 3","Non-Target","NT2","Kideny",2026-06-16,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 3","Target","T1","Brain",2026-06-16,"Longest Diameter for Extranodal Lesions","Measurable",36.7171508269948,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 3","Target","T2","Larynx",2026-06-16,"Longest Diameter for Extranodal Lesions","Measurable",21.7297567929612,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 3","Target","T3","Esophagus",2026-06-16,"Longest Diameter for Extranodal Lesions","Measurable",20.6600911683189,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 4","Non-Target","NT1","Brain",2026-07-29,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 4","Non-Target","NT2","Kideny",2026-07-29,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 4","Target","T1","Brain",2026-07-29,"Longest Diameter for Extranodal Lesions","Measurable",36.2815869045597,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 4","Target","T2","Larynx",2026-07-29,"Longest Diameter for Extranodal Lesions","Measurable",23.0896618848513,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 4","Target","T3","Esophagus",2026-07-29,"Longest Diameter for Extranodal Lesions","Measurable",27.0248186865553,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 5","Non-Target","NT1","Brain",2026-09-11,NA,NA,NA,"Absent"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 5","Non-Target","NT2","Kideny",2026-09-11,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 5","Target","T1","Brain",2026-09-11,"Longest Diameter for Extranodal Lesions","Measurable",18.0586066237763,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 5","Target","T2","Larynx",2026-09-11,"Longest Diameter for Extranodal Lesions","Measurable",16.0711951281027,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 5","Target","T3","Esophagus",2026-09-11,"Longest Diameter for Extranodal Lesions","Measurable",35.4115475921514,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 6","Non-Target","NT1","Brain",2026-10-19,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 6","Non-Target","NT2","Kideny",2026-10-19,NA,NA,NA,"Present"
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 6","Target","T1","Brain",2026-10-19,"Longest Diameter for Extranodal Lesions","Measurable",34.8214537721362,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 6","Target","T2","Larynx",2026-10-19,"Longest Diameter for Extranodal Lesions","Measurable",25.2989181698702,NA
+"SUBJID1",2026-02-08,"400 mg","Post-Baseline 6","Target","T3","Esophagus",2026-10-19,"Longest Diameter for Extranodal Lesions","Measurable",31.3083681906297,NA
+"SUBJID2",2026-01-13,"300 mg","Screening","Non-Target","NT1","Esophagus",2026-01-14,NA,NA,NA,NA
+"SUBJID2",2026-01-13,"300 mg","Screening","Non-Target","NT2","Bone",2026-01-14,NA,NA,NA,NA
+"SUBJID2",2026-01-13,"300 mg","Screening","Non-Target","NT3","Bladder",2026-01-14,NA,NA,NA,NA
+"SUBJID2",2026-01-13,"300 mg","Screening","Non-Target","NT4","Adrenal Gland",2026-01-14,NA,NA,NA,NA
+"SUBJID2",2026-01-13,"300 mg","Screening","Non-Target","NT5","Cervix",2026-01-14,NA,NA,NA,NA
+"SUBJID2",2026-01-13,"300 mg","Screening","Target","T1","Kideny",2026-01-14,"Longest Diameter for Extranodal Lesions","Measurable",41.7767952200737,NA
+"SUBJID2",2026-01-13,"300 mg","Screening","Target","T2","Prostate",2026-01-14,"Longest Diameter for Extranodal Lesions","Measurable",37.2497034226217,NA
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 1","Non-Target","NT1","Esophagus",2026-02-28,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 1","Non-Target","NT2","Bone",2026-02-28,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 1","Non-Target","NT3","Bladder",2026-02-28,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 1","Non-Target","NT4","Adrenal Gland",2026-02-28,NA,NA,NA,"Absent"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 1","Non-Target","NT5","Cervix",2026-02-28,NA,NA,NA,"Absent"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 1","Target","T1","Kideny",2026-02-28,"Longest Diameter for Extranodal Lesions","Measurable",30.3228258345684,NA
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 1","Target","T2","Prostate",2026-02-28,"Longest Diameter for Extranodal Lesions","Measurable",29.1510778324628,NA
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 2","Non-Target","NT1","Esophagus",2026-04-09,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 2","Non-Target","NT2","Bone",2026-04-09,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 2","Non-Target","NT3","Bladder",2026-04-09,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 2","Non-Target","NT4","Adrenal Gland",2026-04-09,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 2","Non-Target","NT5","Cervix",2026-04-09,NA,NA,NA,"Absent"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 2","Target","T1","Kideny",2026-04-09,"Longest Diameter for Extranodal Lesions","Measurable",28.650700328141,NA
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 2","Target","T2","Prostate",2026-04-09,"Longest Diameter for Extranodal Lesions","Measurable",35.2899298705499,NA
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 3","Non-Target","NT1","Esophagus",2026-05-23,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 3","Non-Target","NT2","Bone",2026-05-23,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 3","Non-Target","NT3","Bladder",2026-05-23,NA,NA,NA,"Absent"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 3","Non-Target","NT4","Adrenal Gland",2026-05-23,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 3","Non-Target","NT5","Cervix",2026-05-23,NA,NA,NA,"Present"
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 3","Target","T1","Kideny",2026-05-23,"Longest Diameter for Extranodal Lesions","Measurable",38.3604726481239,NA
+"SUBJID2",2026-01-13,"300 mg","Post-Baseline 3","Target","T2","Prostate",2026-05-23,"Longest Diameter for Extranodal Lesions","Measurable",38.8112610310298,NA
+"SUBJID3",2026-10-07,"300 mg","Screening","Non-Target","NT1","Adrenal Gland",2026-10-09,NA,NA,NA,NA
+"SUBJID3",2026-10-07,"300 mg","Screening","Non-Target","NT2","Ovary",2026-10-09,NA,NA,NA,NA
+"SUBJID3",2026-10-07,"300 mg","Screening","Target","T1","Larynx",2026-10-09,"Longest Diameter for Extranodal Lesions","Measurable",21.1195522414205,NA
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 1","Non-Target","NT1","Adrenal Gland",2026-11-22,NA,NA,NA,"Present"
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 1","Non-Target","NT2","Ovary",2026-11-22,NA,NA,NA,"Present"
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 1","Target","T1","Larynx",2026-11-22,"Longest Diameter for Extranodal Lesions","Measurable",17.8381379589236,NA
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 2","Non-Target","NT1","Adrenal Gland",2027-01-01,NA,NA,NA,"Present"
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 2","Non-Target","NT2","Ovary",2027-01-01,NA,NA,NA,"Absent"
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 2","Target","T1","Larynx",2027-01-01,"Longest Diameter for Extranodal Lesions","Measurable",15.3761490550829,NA
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 3","Non-Target","NT1","Adrenal Gland",2027-02-15,NA,NA,NA,"Present"
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 3","Non-Target","NT2","Ovary",2027-02-15,NA,NA,NA,"Present"
+"SUBJID3",2026-10-07,"300 mg","Post-Baseline 3","Target","T1","Larynx",2027-02-15,"Longest Diameter for Extranodal Lesions","Not Evaluable",NA,NA
+"SUBJID4",2026-05-07,"200 mg","Screening","Non-Target","NT1","Lung",2026-05-09,NA,NA,NA,NA
+"SUBJID4",2026-05-07,"200 mg","Screening","Non-Target","NT2","Brain",2026-05-09,NA,NA,NA,NA
+"SUBJID4",2026-05-07,"200 mg","Screening","Target","T1","Kideny",2026-05-09,"Longest Diameter for Extranodal Lesions","Measurable",43.3493822432193,NA
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 1","Non-Target","NT1","Lung",2026-06-18,NA,NA,NA,"Present"
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 1","Non-Target","NT2","Brain",2026-06-18,NA,NA,NA,"Present"
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 1","Target","T1","Kideny",2026-06-18,"Longest Diameter for Extranodal Lesions","Measurable",35.2533409168267,NA
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 2","Non-Target","NT1","Lung",2026-08-03,NA,NA,NA,"Absent"
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 2","Non-Target","NT2","Brain",2026-08-03,NA,NA,NA,"Present"
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 2","Target","T1","Kideny",2026-08-03,"Longest Diameter for Extranodal Lesions","Measurable",35.4876190719963,NA
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 3","Non-Target","NT1","Lung",2026-09-12,NA,NA,NA,"Absent"
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 3","Non-Target","NT2","Brain",2026-09-12,NA,NA,NA,"Present"
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 3","Target","T1","Kideny",2026-09-12,"Longest Diameter for Extranodal Lesions","Measurable",36.9187422277072,NA
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 4","Non-Target","NT1","Lung",2026-10-26,NA,NA,NA,"Present"
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 4","Non-Target","NT2","Brain",2026-10-26,NA,NA,NA,"Unequivocal Progression"
+"SUBJID4",2026-05-07,"200 mg","Post-Baseline 4","Target","T1","Kideny",2026-10-26,"Longest Diameter for Extranodal Lesions","Measurable",43.0042315719658,NA
+"SUBJID5",2026-02-19,"200 mg","Screening","Non-Target","NT1","Lymph Nodes",2026-02-20,NA,NA,NA,NA
+"SUBJID5",2026-02-19,"200 mg","Screening","Non-Target","NT2","Brain",2026-02-20,NA,NA,NA,NA
+"SUBJID5",2026-02-19,"200 mg","Screening","Non-Target","NT3","Other",2026-02-20,NA,NA,NA,NA
+"SUBJID5",2026-02-19,"200 mg","Screening","Target","T1","Prostate",2026-02-20,"Longest Diameter for Extranodal Lesions","Measurable",20.8653529789934,NA
+"SUBJID5",2026-02-19,"200 mg","Screening","Target","T2","Adrenal Gland",2026-02-20,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 1","Non-Target","NT1","Lymph Nodes",2026-04-03,NA,NA,NA,"Present"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 1","Non-Target","NT2","Brain",2026-04-03,NA,NA,NA,"Absent"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 1","Non-Target","NT3","Other",2026-04-03,NA,NA,NA,"Present"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 1","Target","T1","Prostate",2026-04-03,"Longest Diameter for Extranodal Lesions","Measurable",20.8214205837155,NA
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 1","Target","T2","Adrenal Gland",2026-04-03,"Longest Diameter for Extranodal Lesions","Measurable",9.82054630603028,NA
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 2","Non-Target","NT1","Lymph Nodes",2026-05-16,NA,NA,NA,"Present"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 2","Non-Target","NT2","Brain",2026-05-16,NA,NA,NA,"Present"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 2","Non-Target","NT3","Other",2026-05-16,NA,NA,NA,"Absent"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 2","Target","T1","Prostate",2026-05-16,"Longest Diameter for Extranodal Lesions","Measurable",21.5913622412446,NA
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 2","Target","T2","Adrenal Gland",2026-05-16,"Longest Diameter for Extranodal Lesions","Measurable",14.0862068273999,NA
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 3","Non-Target","NT1","Lymph Nodes",2026-06-28,NA,NA,NA,"Absent"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 3","Non-Target","NT2","Brain",2026-06-28,NA,NA,NA,"Absent"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 3","Non-Target","NT3","Other",2026-06-28,NA,NA,NA,"Unequivocal Progression"
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 3","Target","T1","Prostate",2026-06-28,"Longest Diameter for Extranodal Lesions","Measurable",13.7049955385095,NA
+"SUBJID5",2026-02-19,"200 mg","Post-Baseline 3","Target","T2","Adrenal Gland",2026-06-28,"Longest Diameter for Extranodal Lesions","Measurable",15.0102497684947,NA
+"SUBJID6",2026-04-24,"200 mg","Screening","Non-Target","NT1","Adrenal Gland",2026-04-26,NA,NA,NA,NA
+"SUBJID6",2026-04-24,"200 mg","Screening","Non-Target","NT2","Pancreas",2026-04-26,NA,NA,NA,NA
+"SUBJID6",2026-04-24,"200 mg","Screening","Target","T1","Lymph Nodes",2026-04-26,"Short Axis for Lymph Nodes","Measurable",28.3791483713062,NA
+"SUBJID6",2026-04-24,"200 mg","Screening","Target","T2","Ovary",2026-04-26,"Longest Diameter for Extranodal Lesions","Measurable",54.4716681019771,NA
+"SUBJID6",2026-04-24,"200 mg","Post-Baseline 1","Non-Target","NT1","Adrenal Gland",2026-06-04,NA,NA,NA,"Absent"
+"SUBJID6",2026-04-24,"200 mg","Post-Baseline 1","Non-Target","NT2","Pancreas",2026-06-04,NA,NA,NA,"Present"
+"SUBJID6",2026-04-24,"200 mg","Post-Baseline 1","Target","T1","Lymph Nodes",2026-06-04,"Short Axis for Lymph Nodes","Measurable",21.5680758879302,NA
+"SUBJID6",2026-04-24,"200 mg","Post-Baseline 1","Target","T2","Ovary",2026-06-04,"Longest Diameter for Extranodal Lesions","Measurable",39.7728643875007,NA
+"SUBJID6",2026-04-24,"200 mg","Post-Baseline 2","Non-Target","NT1","Adrenal Gland",2026-07-18,NA,NA,NA,"Present"
+"SUBJID6",2026-04-24,"200 mg","Post-Baseline 2","Non-Target","NT2","Pancreas",2026-07-18,NA,NA,NA,"Present"
+"SUBJID6",2026-04-24,"200 mg","Post-Baseline 2","Target","T1","Lymph Nodes",2026-07-18,"Short Axis for Lymph Nodes","Measurable",25.6284289453995,NA
+"SUBJID6",2026-04-24,"200 mg","Post-Baseline 2","Target","T2","Ovary",2026-07-18,"Longest Diameter for Extranodal Lesions","Measurable",43.007279193359,NA
+"SUBJID7",2026-05-12,"200 mg","Screening","Non-Target","NT1","Bladder",2026-05-13,NA,NA,NA,NA
+"SUBJID7",2026-05-12,"200 mg","Screening","Target","T1","Other",2026-05-13,"Longest Diameter for Extranodal Lesions","Measurable",58.7620572775076,NA
+"SUBJID7",2026-05-12,"200 mg","Post-Baseline 1","Non-Target","NT1","Bladder",2026-06-26,NA,NA,NA,"Present"
+"SUBJID7",2026-05-12,"200 mg","Post-Baseline 1","Target","T1","Other",2026-06-26,"Longest Diameter for Extranodal Lesions","Measurable",42.5455423287714,NA
+"SUBJID7",2026-05-12,"200 mg","Post-Baseline 2","Non-Target","NT1","Bladder",2026-08-08,NA,NA,NA,"Absent"
+"SUBJID7",2026-05-12,"200 mg","Post-Baseline 2","Target","T1","Other",2026-08-08,"Longest Diameter for Extranodal Lesions","Measurable",43.9836906193833,NA
+"SUBJID8",2026-03-17,"300 mg","Screening","Non-Target","NT1","Brain",2026-03-20,NA,NA,NA,NA
+"SUBJID8",2026-03-17,"300 mg","Screening","Non-Target","NT2","Brain",2026-03-20,NA,NA,NA,NA
+"SUBJID8",2026-03-17,"300 mg","Screening","Non-Target","NT3","Lung",2026-03-20,NA,NA,NA,NA
+"SUBJID8",2026-03-17,"300 mg","Screening","Target","T1","Other",2026-03-20,"Longest Diameter for Extranodal Lesions","Measurable",29.3158694849087,NA
+"SUBJID8",2026-03-17,"300 mg","Screening","Target","T2","Esophagus",2026-03-20,"Longest Diameter for Extranodal Lesions","Measurable",49.8564227269349,NA
+"SUBJID8",2026-03-17,"300 mg","Post-Baseline 1","New Lesion","NEW1","Ovary",2026-05-04,"Longest Diameter for Extranodal Lesions","Measurable",26.1781733097329,NA
+"SUBJID8",2026-03-17,"300 mg","Post-Baseline 1","Non-Target","NT1","Brain",2026-05-04,NA,NA,NA,"Present"
+"SUBJID8",2026-03-17,"300 mg","Post-Baseline 1","Non-Target","NT2","Brain",2026-05-04,NA,NA,NA,"Present"
+"SUBJID8",2026-03-17,"300 mg","Post-Baseline 1","Non-Target","NT3","Lung",2026-05-04,NA,NA,NA,"Present"
+"SUBJID8",2026-03-17,"300 mg","Post-Baseline 1","Target","T1","Other",2026-05-04,"Longest Diameter for Extranodal Lesions","Measurable",19.9887134364266,NA
+"SUBJID8",2026-03-17,"300 mg","Post-Baseline 1","Target","T2","Esophagus",2026-05-04,"Longest Diameter for Extranodal Lesions","Measurable",36.9248994706278,NA
+"SUBJID9",2026-11-16,"200 mg","Screening","Non-Target","NT1","Prostate",2026-11-17,NA,NA,NA,NA
+"SUBJID9",2026-11-16,"200 mg","Screening","Non-Target","NT2","Esophagus",2026-11-17,NA,NA,NA,NA
+"SUBJID9",2026-11-16,"200 mg","Screening","Non-Target","NT3","Ovary",2026-11-17,NA,NA,NA,NA
+"SUBJID9",2026-11-16,"200 mg","Screening","Non-Target","NT4","Prostate",2026-11-17,NA,NA,NA,NA
+"SUBJID9",2026-11-16,"200 mg","Screening","Non-Target","NT5","Kideny",2026-11-17,NA,NA,NA,NA
+"SUBJID9",2026-11-16,"200 mg","Screening","Target","T1","Brain",2026-11-17,"Longest Diameter for Extranodal Lesions","Measurable",31.4076896555917,NA
+"SUBJID9",2026-11-16,"200 mg","Screening","Target","T2","Liver",2026-11-17,"Longest Diameter for Extranodal Lesions","Measurable",44.4511770559838,NA
+"SUBJID9",2026-11-16,"200 mg","Screening","Target","T3","Breast",2026-11-17,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 1","Non-Target","NT1","Prostate",2026-12-31,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 1","Non-Target","NT2","Esophagus",2026-12-31,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 1","Non-Target","NT3","Ovary",2026-12-31,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 1","Non-Target","NT4","Prostate",2026-12-31,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 1","Non-Target","NT5","Kideny",2026-12-31,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 1","Target","T1","Brain",2026-12-31,"Longest Diameter for Extranodal Lesions","Measurable",21.1198934817827,NA
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 1","Target","T2","Liver",2026-12-31,"Longest Diameter for Extranodal Lesions","Measurable",47.6457838447313,NA
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 1","Target","T3","Breast",2026-12-31,"Longest Diameter for Extranodal Lesions","Measurable",12.4833563694328,NA
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 2","Non-Target","NT1","Prostate",2027-02-07,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 2","Non-Target","NT2","Esophagus",2027-02-07,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 2","Non-Target","NT3","Ovary",2027-02-07,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 2","Non-Target","NT4","Prostate",2027-02-07,NA,NA,NA,"Absent"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 2","Non-Target","NT5","Kideny",2027-02-07,NA,NA,NA,"Present"
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 2","Target","T1","Brain",2027-02-07,"Longest Diameter for Extranodal Lesions","Measurable",27.0754247187205,NA
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 2","Target","T2","Liver",2027-02-07,"Longest Diameter for Extranodal Lesions","Measurable",40.4075706888802,NA
+"SUBJID9",2026-11-16,"200 mg","Post-Baseline 2","Target","T3","Breast",2027-02-07,"Longest Diameter for Extranodal Lesions","Measurable",9.40084189875205,NA
+"SUBJID10",2026-04-12,"200 mg","Screening","Non-Target","NT1","Pancreas",2026-04-14,NA,NA,NA,NA
+"SUBJID10",2026-04-12,"200 mg","Screening","Non-Target","NT2","Larynx",2026-04-14,NA,NA,NA,NA
+"SUBJID10",2026-04-12,"200 mg","Screening","Target","T1","Kideny",2026-04-14,"Longest Diameter for Extranodal Lesions","Measurable",45.5542291162945,NA
+"SUBJID10",2026-04-12,"200 mg","Screening","Target","T2","Kideny",2026-04-14,"Longest Diameter for Extranodal Lesions","Measurable",43.69216957943,NA
+"SUBJID10",2026-04-12,"200 mg","Screening","Target","T3","Lymph Nodes",2026-04-14,"Short Axis for Lymph Nodes","Measurable",28.6402173899397,NA
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 1","Non-Target","NT1","Pancreas",2026-05-25,NA,NA,NA,"Absent"
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 1","Non-Target","NT2","Larynx",2026-05-25,NA,NA,NA,"Present"
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 1","Target","T1","Kideny",2026-05-25,"Longest Diameter for Extranodal Lesions","Measurable",42.2517702829399,NA
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 1","Target","T2","Kideny",2026-05-25,"Longest Diameter for Extranodal Lesions","Measurable",34.7734411527665,NA
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 1","Target","T3","Lymph Nodes",2026-05-25,"Short Axis for Lymph Nodes","Measurable",22.8541767322744,NA
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 2","Non-Target","NT1","Pancreas",2026-07-09,NA,NA,NA,"Present"
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 2","Non-Target","NT2","Larynx",2026-07-09,NA,NA,NA,"Present"
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 2","Target","T1","Kideny",2026-07-09,"Longest Diameter for Extranodal Lesions","Measurable",45.2611588373088,NA
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 2","Target","T2","Kideny",2026-07-09,"Longest Diameter for Extranodal Lesions","Measurable",31.4904116197063,NA
+"SUBJID10",2026-04-12,"200 mg","Post-Baseline 2","Target","T3","Lymph Nodes",2026-07-09,"Short Axis for Lymph Nodes","Measurable",37.3357382068533,NA
+"SUBJID11",2026-09-07,"300 mg","Screening","Non-Target","NT1","Other",2026-09-08,NA,NA,NA,NA
+"SUBJID11",2026-09-07,"300 mg","Screening","Non-Target","NT2","Other",2026-09-08,NA,NA,NA,NA
+"SUBJID11",2026-09-07,"300 mg","Screening","Non-Target","NT3","Ovary",2026-09-08,NA,NA,NA,NA
+"SUBJID11",2026-09-07,"300 mg","Screening","Non-Target","NT4","Larynx",2026-09-08,NA,NA,NA,NA
+"SUBJID11",2026-09-07,"300 mg","Screening","Target","T1","Breast",2026-09-08,"Longest Diameter for Extranodal Lesions","Measurable",16.7113185781673,NA
+"SUBJID11",2026-09-07,"300 mg","Screening","Target","T2","Liver",2026-09-08,"Longest Diameter for Extranodal Lesions","Measurable",20.2416368749523,NA
+"SUBJID11",2026-09-07,"300 mg","Screening","Target","T3","Breast",2026-09-08,"Longest Diameter for Extranodal Lesions","Measurable",60.2433866842876,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 1","Non-Target","NT1","Other",2026-10-23,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 1","Non-Target","NT2","Other",2026-10-23,NA,NA,NA,"Absent"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 1","Non-Target","NT3","Ovary",2026-10-23,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 1","Non-Target","NT4","Larynx",2026-10-23,NA,NA,NA,"Absent"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 1","Target","T1","Breast",2026-10-23,"Longest Diameter for Extranodal Lesions","Measurable",14.6221914057623,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 1","Target","T2","Liver",2026-10-23,"Longest Diameter for Extranodal Lesions","Measurable",14.4549021297063,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 1","Target","T3","Breast",2026-10-23,"Longest Diameter for Extranodal Lesions","Measurable",51.199248671196,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 2","Non-Target","NT1","Other",2026-12-03,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 2","Non-Target","NT2","Other",2026-12-03,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 2","Non-Target","NT3","Ovary",2026-12-03,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 2","Non-Target","NT4","Larynx",2026-12-03,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 2","Target","T1","Breast",2026-12-03,"Longest Diameter for Extranodal Lesions","Measurable",10.5510826264337,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 2","Target","T2","Liver",2026-12-03,"Longest Diameter for Extranodal Lesions","Measurable",20.3956420905616,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 2","Target","T3","Breast",2026-12-03,"Longest Diameter for Extranodal Lesions","Measurable",51.3427973276591,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 3","Non-Target","NT1","Other",2027-01-13,NA,NA,NA,"Absent"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 3","Non-Target","NT2","Other",2027-01-13,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 3","Non-Target","NT3","Ovary",2027-01-13,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 3","Non-Target","NT4","Larynx",2027-01-13,NA,NA,NA,"Present"
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 3","Target","T1","Breast",2027-01-13,"Longest Diameter for Extranodal Lesions","Measurable",16.2162893338112,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 3","Target","T2","Liver",2027-01-13,"Longest Diameter for Extranodal Lesions","Measurable",15.5324736484971,NA
+"SUBJID11",2026-09-07,"300 mg","Post-Baseline 3","Target","T3","Breast",2027-01-13,"Longest Diameter for Extranodal Lesions","Measurable",41.4548384468805,NA
+"SUBJID12",2026-02-04,"400 mg","Screening","Non-Target","NT1","Liver",2026-02-05,NA,NA,NA,NA
+"SUBJID12",2026-02-04,"400 mg","Screening","Non-Target","NT2","Lung",2026-02-05,NA,NA,NA,NA
+"SUBJID12",2026-02-04,"400 mg","Screening","Target","T1","Breast",2026-02-05,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID12",2026-02-04,"400 mg","Screening","Target","T2","Breast",2026-02-05,"Longest Diameter for Extranodal Lesions","Measurable",32.8499164803709,NA
+"SUBJID12",2026-02-04,"400 mg","Screening","Target","T3","Breast",2026-02-05,"Longest Diameter for Extranodal Lesions","Measurable",85.3229085448981,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 1","Non-Target","NT1","Liver",2026-03-21,NA,NA,NA,"Absent"
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 1","Non-Target","NT2","Lung",2026-03-21,NA,NA,NA,"Absent"
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 1","Target","T1","Breast",2026-03-21,"Longest Diameter for Extranodal Lesions","Measurable",13.9479980747425,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 1","Target","T2","Breast",2026-03-21,"Longest Diameter for Extranodal Lesions","Measurable",29.9851625449245,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 1","Target","T3","Breast",2026-03-21,"Longest Diameter for Extranodal Lesions","Measurable",72.6968149289892,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 2","Non-Target","NT1","Liver",2026-05-01,NA,NA,NA,"Present"
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 2","Non-Target","NT2","Lung",2026-05-01,NA,NA,NA,"Present"
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 2","Target","T1","Breast",2026-05-01,"Longest Diameter for Extranodal Lesions","Measurable",12.2275400816922,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 2","Target","T2","Breast",2026-05-01,"Longest Diameter for Extranodal Lesions","Measurable",27.8914263206182,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 2","Target","T3","Breast",2026-05-01,"Longest Diameter for Extranodal Lesions","Measurable",79.5467401766323,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 3","Non-Target","NT1","Liver",2026-06-09,NA,NA,NA,"Present"
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 3","Non-Target","NT2","Lung",2026-06-09,NA,NA,NA,"Present"
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 3","Target","T1","Breast",2026-06-09,"Longest Diameter for Extranodal Lesions","Measurable",10.1137886429567,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 3","Target","T2","Breast",2026-06-09,"Longest Diameter for Extranodal Lesions","Measurable",29.7609708701861,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 3","Target","T3","Breast",2026-06-09,"Longest Diameter for Extranodal Lesions","Measurable",57.2862755794916,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 4","New Lesion","NEW1","Other",2026-07-25,"Longest Diameter for Extranodal Lesions","Measurable",19.356033965937,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 4","Non-Target","NT1","Liver",2026-07-25,NA,NA,NA,"Present"
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 4","Non-Target","NT2","Lung",2026-07-25,NA,NA,NA,"Present"
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 4","Target","T1","Breast",2026-07-25,"Longest Diameter for Extranodal Lesions","Measurable",10.9839585423767,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 4","Target","T2","Breast",2026-07-25,"Longest Diameter for Extranodal Lesions","Measurable",28.2509084231225,NA
+"SUBJID12",2026-02-04,"400 mg","Post-Baseline 4","Target","T3","Breast",2026-07-25,"Longest Diameter for Extranodal Lesions","Measurable",57.026049865389,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Non-Target","NT1","Lymph Nodes",2026-11-09,NA,NA,NA,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Non-Target","NT2","Pancreas",2026-11-09,NA,NA,NA,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Non-Target","NT3","Prostate",2026-11-09,NA,NA,NA,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Non-Target","NT4","Larynx",2026-11-09,NA,NA,NA,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Non-Target","NT5","Breast",2026-11-09,NA,NA,NA,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Target","T1","Bladder",2026-11-09,"Longest Diameter for Extranodal Lesions","Measurable",18.2049603707009,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Target","T2","Brain",2026-11-09,"Longest Diameter for Extranodal Lesions","Measurable",70.1631961930598,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Target","T3","Prostate",2026-11-09,"Longest Diameter for Extranodal Lesions","Measurable",100.865305756714,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Target","T4","Lymph Nodes",2026-11-09,"Short Axis for Lymph Nodes","Measurable",39.7660310150582,NA
+"SUBJID13",2026-11-08,"200 mg","Screening","Target","T5","Ovary",2026-11-09,"Longest Diameter for Extranodal Lesions","Measurable",26.3513543720397,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Non-Target","NT1","Lymph Nodes",2026-12-23,NA,NA,NA,"Present"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Non-Target","NT2","Pancreas",2026-12-23,NA,NA,NA,"Present"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Non-Target","NT3","Prostate",2026-12-23,NA,NA,NA,"Present"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Non-Target","NT4","Larynx",2026-12-23,NA,NA,NA,"Present"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Non-Target","NT5","Breast",2026-12-23,NA,NA,NA,"Present"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Target","T1","Bladder",2026-12-23,"Longest Diameter for Extranodal Lesions","Measurable",14.6935191287965,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Target","T2","Brain",2026-12-23,"Longest Diameter for Extranodal Lesions","Measurable",62.5042188577726,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Target","T3","Prostate",2026-12-23,"Longest Diameter for Extranodal Lesions","Measurable",87.8298022634168,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Target","T4","Lymph Nodes",2026-12-23,"Short Axis for Lymph Nodes","Measurable",38.22672387427,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 1","Target","T5","Ovary",2026-12-23,"Longest Diameter for Extranodal Lesions","Measurable",24.9404415442126,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Non-Target","NT1","Lymph Nodes",2027-02-02,NA,NA,NA,"Absent"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Non-Target","NT2","Pancreas",2027-02-02,NA,NA,NA,"Present"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Non-Target","NT3","Prostate",2027-02-02,NA,NA,NA,"Present"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Non-Target","NT4","Larynx",2027-02-02,NA,NA,NA,"Absent"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Non-Target","NT5","Breast",2027-02-02,NA,NA,NA,"Present"
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Target","T1","Bladder",2027-02-02,"Longest Diameter for Extranodal Lesions","Measurable",17.8243858182218,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Target","T2","Brain",2027-02-02,"Longest Diameter for Extranodal Lesions","Measurable",70.9688097173888,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Target","T3","Prostate",2027-02-02,"Longest Diameter for Extranodal Lesions","Measurable",77.8315551775152,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Target","T4","Lymph Nodes",2027-02-02,"Short Axis for Lymph Nodes","Measurable",27.393162211657,NA
+"SUBJID13",2026-11-08,"200 mg","Post-Baseline 2","Target","T5","Ovary",2027-02-02,"Longest Diameter for Extranodal Lesions","Measurable",27.8574276918585,NA
+"SUBJID14",2026-05-18,"400 mg","Screening","Non-Target","NT1","Brain",2026-05-19,NA,NA,NA,NA
+"SUBJID14",2026-05-18,"400 mg","Screening","Non-Target","NT2","Other",2026-05-19,NA,NA,NA,NA
+"SUBJID14",2026-05-18,"400 mg","Screening","Non-Target","NT3","Breast",2026-05-19,NA,NA,NA,NA
+"SUBJID14",2026-05-18,"400 mg","Screening","Non-Target","NT4","Pancreas",2026-05-19,NA,NA,NA,NA
+"SUBJID14",2026-05-18,"400 mg","Screening","Non-Target","NT5","Prostate",2026-05-19,NA,NA,NA,NA
+"SUBJID14",2026-05-18,"400 mg","Screening","Target","T1","Lymph Nodes",2026-05-19,"Short Axis for Lymph Nodes","Measurable",35.6228160294685,NA
+"SUBJID14",2026-05-18,"400 mg","Screening","Target","T2","Lymph Nodes",2026-05-19,"Short Axis for Lymph Nodes","Measurable",29.9962656579649,NA
+"SUBJID14",2026-05-18,"400 mg","Post-Baseline 1","Non-Target","NT1","Brain",2026-06-29,NA,NA,NA,"Present"
+"SUBJID14",2026-05-18,"400 mg","Post-Baseline 1","Non-Target","NT2","Other",2026-06-29,NA,NA,NA,"Unequivocal Progression"
+"SUBJID14",2026-05-18,"400 mg","Post-Baseline 1","Non-Target","NT3","Breast",2026-06-29,NA,NA,NA,"Unequivocal Progression"
+"SUBJID14",2026-05-18,"400 mg","Post-Baseline 1","Non-Target","NT4","Pancreas",2026-06-29,NA,NA,NA,"Unequivocal Progression"
+"SUBJID14",2026-05-18,"400 mg","Post-Baseline 1","Non-Target","NT5","Prostate",2026-06-29,NA,NA,NA,"Unequivocal Progression"
+"SUBJID14",2026-05-18,"400 mg","Post-Baseline 1","Target","T1","Lymph Nodes",2026-06-29,"Short Axis for Lymph Nodes","Measurable",23.3157139688215,NA
+"SUBJID14",2026-05-18,"400 mg","Post-Baseline 1","Target","T2","Lymph Nodes",2026-06-29,"Short Axis for Lymph Nodes","Measurable",20.2497046777379,NA
+"SUBJID15",2026-03-15,"300 mg","Screening","Non-Target","NT1","Breast",2026-03-18,NA,NA,NA,NA
+"SUBJID15",2026-03-15,"300 mg","Screening","Target","T1","Brain",2026-03-18,"Longest Diameter for Extranodal Lesions","Measurable",42.4805254388465,NA
+"SUBJID15",2026-03-15,"300 mg","Screening","Target","T2","Pancreas",2026-03-18,"Longest Diameter for Extranodal Lesions","Measurable",44.8844280448895,NA
+"SUBJID15",2026-03-15,"300 mg","Screening","Target","T3","Brain",2026-03-18,"Longest Diameter for Extranodal Lesions","Measurable",30.5034173040715,NA
+"SUBJID15",2026-03-15,"300 mg","Screening","Target","T4","Liver",2026-03-18,"Longest Diameter for Extranodal Lesions","Measurable",69.1458878195784,NA
+"SUBJID15",2026-03-15,"300 mg","Screening","Target","T5","Lung",2026-03-18,"Longest Diameter for Extranodal Lesions","Measurable",27.6335059009739,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 1","Non-Target","NT1","Breast",2026-05-01,NA,NA,NA,"Present"
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 1","Target","T1","Brain",2026-05-01,"Longest Diameter for Extranodal Lesions","Measurable",31.7829898143757,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 1","Target","T2","Pancreas",2026-05-01,"Longest Diameter for Extranodal Lesions","Measurable",24.1511887007054,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 1","Target","T3","Brain",2026-05-01,"Longest Diameter for Extranodal Lesions","Measurable",24.547450464813,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 1","Target","T4","Liver",2026-05-01,"Longest Diameter for Extranodal Lesions","Measurable",51.9351592438843,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 1","Target","T5","Lung",2026-05-01,"Longest Diameter for Extranodal Lesions","Measurable",26.853392431839,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 2","Non-Target","NT1","Breast",2026-06-13,NA,NA,NA,"Present"
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 2","Target","T1","Brain",2026-06-13,"Longest Diameter for Extranodal Lesions","Measurable",27.6778466841268,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 2","Target","T2","Pancreas",2026-06-13,"Longest Diameter for Extranodal Lesions","Measurable",37.2284074848993,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 2","Target","T3","Brain",2026-06-13,"Longest Diameter for Extranodal Lesions","Measurable",22.3901323063012,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 2","Target","T4","Liver",2026-06-13,"Longest Diameter for Extranodal Lesions","Measurable",78.7869563627236,NA
+"SUBJID15",2026-03-15,"300 mg","Post-Baseline 2","Target","T5","Lung",2026-06-13,"Longest Diameter for Extranodal Lesions","Measurable",24.8008569978649,NA
+"SUBJID16",2026-07-09,"300 mg","Screening","Non-Target","NT1","Esophagus",2026-07-12,NA,NA,NA,NA
+"SUBJID16",2026-07-09,"300 mg","Screening","Non-Target","NT2","Other",2026-07-12,NA,NA,NA,NA
+"SUBJID16",2026-07-09,"300 mg","Screening","Non-Target","NT3","Esophagus",2026-07-12,NA,NA,NA,NA
+"SUBJID16",2026-07-09,"300 mg","Screening","Target","T1","Breast",2026-07-12,"Longest Diameter for Extranodal Lesions","Measurable",15.3244434087865,NA
+"SUBJID16",2026-07-09,"300 mg","Screening","Target","T2","Kideny",2026-07-12,"Longest Diameter for Extranodal Lesions","Measurable",30.4848950712999,NA
+"SUBJID16",2026-07-09,"300 mg","Screening","Target","T3","Ovary",2026-07-12,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID16",2026-07-09,"300 mg","Screening","Target","T4","Breast",2026-07-12,"Longest Diameter for Extranodal Lesions","Measurable",20.4279889683466,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 1","Non-Target","NT1","Esophagus",2026-08-21,NA,NA,NA,"Present"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 1","Non-Target","NT2","Other",2026-08-21,NA,NA,NA,"Present"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 1","Non-Target","NT3","Esophagus",2026-08-21,NA,NA,NA,"Present"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 1","Target","T1","Breast",2026-08-21,"Longest Diameter for Extranodal Lesions","Measurable",8.70068790396559,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 1","Target","T2","Kideny",2026-08-21,"Longest Diameter for Extranodal Lesions","Measurable",19.2559723751829,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 1","Target","T3","Ovary",2026-08-21,"Longest Diameter for Extranodal Lesions","Measurable",13.3306918342566,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 1","Target","T4","Breast",2026-08-21,"Longest Diameter for Extranodal Lesions","Measurable",15.0731687353473,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 2","Non-Target","NT1","Esophagus",2026-10-04,NA,NA,NA,"Present"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 2","Non-Target","NT2","Other",2026-10-04,NA,NA,NA,"Absent"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 2","Non-Target","NT3","Esophagus",2026-10-04,NA,NA,NA,"Present"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 2","Target","T1","Breast",2026-10-04,"Longest Diameter for Extranodal Lesions","Measurable",11.9129389906104,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 2","Target","T2","Kideny",2026-10-04,"Longest Diameter for Extranodal Lesions","Measurable",22.8013445589731,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 2","Target","T3","Ovary",2026-10-04,"Longest Diameter for Extranodal Lesions","Measurable",14.8338181504145,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 2","Target","T4","Breast",2026-10-04,"Longest Diameter for Extranodal Lesions","Measurable",16.4227571586547,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 3","Non-Target","NT1","Esophagus",2026-11-17,NA,NA,NA,"Present"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 3","Non-Target","NT2","Other",2026-11-17,NA,NA,NA,"Present"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 3","Non-Target","NT3","Esophagus",2026-11-17,NA,NA,NA,"Present"
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 3","Target","T1","Breast",2026-11-17,"Longest Diameter for Extranodal Lesions","Measurable",12.4819326184652,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 3","Target","T2","Kideny",2026-11-17,"Longest Diameter for Extranodal Lesions","Measurable",27.1255747238613,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 3","Target","T3","Ovary",2026-11-17,"Longest Diameter for Extranodal Lesions","Measurable",10.9005031962139,NA
+"SUBJID16",2026-07-09,"300 mg","Post-Baseline 3","Target","T4","Breast",2026-11-17,"Longest Diameter for Extranodal Lesions","Measurable",7.26206244069727,NA
+"SUBJID17",2026-11-04,"400 mg","Screening","Non-Target","NT1","Larynx",2026-11-07,NA,NA,NA,NA
+"SUBJID17",2026-11-04,"400 mg","Screening","Non-Target","NT2","Bone",2026-11-07,NA,NA,NA,NA
+"SUBJID17",2026-11-04,"400 mg","Screening","Non-Target","NT3","Pancreas",2026-11-07,NA,NA,NA,NA
+"SUBJID17",2026-11-04,"400 mg","Screening","Non-Target","NT4","Larynx",2026-11-07,NA,NA,NA,NA
+"SUBJID17",2026-11-04,"400 mg","Screening","Target","T1","Bone",2026-11-07,"Longest Diameter for Extranodal Lesions","Measurable",69.3989099047545,NA
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 1","Non-Target","NT1","Larynx",2026-12-22,NA,NA,NA,"Present"
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 1","Non-Target","NT2","Bone",2026-12-22,NA,NA,NA,"Present"
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 1","Non-Target","NT3","Pancreas",2026-12-22,NA,NA,NA,"Present"
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 1","Non-Target","NT4","Larynx",2026-12-22,NA,NA,NA,"Present"
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 1","Target","T1","Bone",2026-12-22,"Longest Diameter for Extranodal Lesions","Measurable",33.5964106504882,NA
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 2","Non-Target","NT1","Larynx",2027-01-29,NA,NA,NA,"Absent"
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 2","Non-Target","NT2","Bone",2027-01-29,NA,NA,NA,"Present"
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 2","Non-Target","NT3","Pancreas",2027-01-29,NA,NA,NA,"Present"
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 2","Non-Target","NT4","Larynx",2027-01-29,NA,NA,NA,"Present"
+"SUBJID17",2026-11-04,"400 mg","Post-Baseline 2","Target","T1","Bone",2027-01-29,"Longest Diameter for Extranodal Lesions","Measurable",42.4868684377495,NA
+"SUBJID18",2026-03-14,"200 mg","Screening","Non-Target","NT1","Bladder",2026-03-17,NA,NA,NA,NA
+"SUBJID18",2026-03-14,"200 mg","Screening","Non-Target","NT2","Larynx",2026-03-17,NA,NA,NA,NA
+"SUBJID18",2026-03-14,"200 mg","Screening","Non-Target","NT3","Lung",2026-03-17,NA,NA,NA,NA
+"SUBJID18",2026-03-14,"200 mg","Screening","Target","T1","Adrenal Gland",2026-03-17,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID18",2026-03-14,"200 mg","Screening","Target","T2","Bone",2026-03-17,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID18",2026-03-14,"200 mg","Post-Baseline 1","New Lesion","NEW1","Lung",2026-04-27,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID18",2026-03-14,"200 mg","Post-Baseline 1","Non-Target","NT1","Bladder",2026-04-27,NA,NA,NA,"Present"
+"SUBJID18",2026-03-14,"200 mg","Post-Baseline 1","Non-Target","NT2","Larynx",2026-04-27,NA,NA,NA,"Present"
+"SUBJID18",2026-03-14,"200 mg","Post-Baseline 1","Non-Target","NT3","Lung",2026-04-27,NA,NA,NA,"Absent"
+"SUBJID18",2026-03-14,"200 mg","Post-Baseline 1","Target","T1","Adrenal Gland",2026-04-27,"Longest Diameter for Extranodal Lesions","Measurable",11.2977793228547,NA
+"SUBJID18",2026-03-14,"200 mg","Post-Baseline 1","Target","T2","Bone",2026-04-27,"Longest Diameter for Extranodal Lesions","Measurable",8.93732305643187,NA
+"SUBJID19",2026-01-14,"200 mg","Screening","Non-Target","NT1","Liver",2026-01-17,NA,NA,NA,NA
+"SUBJID19",2026-01-14,"200 mg","Screening","Non-Target","NT2","Pancreas",2026-01-17,NA,NA,NA,NA
+"SUBJID19",2026-01-14,"200 mg","Screening","Target","T1","Breast",2026-01-17,"Longest Diameter for Extranodal Lesions","Measurable",78.9519493333574,NA
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 1","Non-Target","NT1","Liver",2026-03-03,NA,NA,NA,"Present"
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 1","Non-Target","NT2","Pancreas",2026-03-03,NA,NA,NA,"Present"
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 1","Target","T1","Breast",2026-03-03,"Longest Diameter for Extranodal Lesions","Measurable",69.006292646706,NA
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 2","Non-Target","NT1","Liver",2026-04-13,NA,NA,NA,"Present"
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 2","Non-Target","NT2","Pancreas",2026-04-13,NA,NA,NA,"Present"
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 2","Target","T1","Breast",2026-04-13,"Longest Diameter for Extranodal Lesions","Measurable",65.2613941709286,NA
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 3","Non-Target","NT1","Liver",2026-05-23,NA,NA,NA,"Present"
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 3","Non-Target","NT2","Pancreas",2026-05-23,NA,NA,NA,"Present"
+"SUBJID19",2026-01-14,"200 mg","Post-Baseline 3","Target","T1","Breast",2026-05-23,"Longest Diameter for Extranodal Lesions","Measurable",83.5687538638281,NA
+"SUBJID20",2026-10-05,"200 mg","Screening","Non-Target","NT1","Esophagus",2026-10-06,NA,NA,NA,NA
+"SUBJID20",2026-10-05,"200 mg","Screening","Non-Target","NT2","Cervix",2026-10-06,NA,NA,NA,NA
+"SUBJID20",2026-10-05,"200 mg","Screening","Target","T1","Prostate",2026-10-06,"Longest Diameter for Extranodal Lesions","Measurable",48.6310727876627,NA
+"SUBJID20",2026-10-05,"200 mg","Post-Baseline 1","New Lesion","NEW1","Other",2026-11-16,"Longest Diameter for Extranodal Lesions","Measurable",32.6655476638093,NA
+"SUBJID20",2026-10-05,"200 mg","Post-Baseline 1","Non-Target","NT1","Esophagus",2026-11-16,NA,NA,NA,"Absent"
+"SUBJID20",2026-10-05,"200 mg","Post-Baseline 1","Non-Target","NT2","Cervix",2026-11-16,NA,NA,NA,"Present"
+"SUBJID20",2026-10-05,"200 mg","Post-Baseline 1","Target","T1","Prostate",2026-11-16,"Longest Diameter for Extranodal Lesions","Measurable",39.0530436342499,NA
+"SUBJID21",2026-05-27,"400 mg","Screening","Non-Target","NT1","Breast",2026-05-30,NA,NA,NA,NA
+"SUBJID21",2026-05-27,"400 mg","Screening","Non-Target","NT2","Kideny",2026-05-30,NA,NA,NA,NA
+"SUBJID21",2026-05-27,"400 mg","Screening","Target","T1","Ovary",2026-05-30,"Longest Diameter for Extranodal Lesions","Measurable",43.1461854760498,NA
+"SUBJID21",2026-05-27,"400 mg","Screening","Target","T2","Esophagus",2026-05-30,"Longest Diameter for Extranodal Lesions","Measurable",30.531098377436,NA
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 1","Non-Target","NT1","Breast",2026-07-14,NA,NA,NA,"Present"
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 1","Non-Target","NT2","Kideny",2026-07-14,NA,NA,NA,"Absent"
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 1","Target","T1","Ovary",2026-07-14,"Longest Diameter for Extranodal Lesions","Measurable",36.6775086605374,NA
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 1","Target","T2","Esophagus",2026-07-14,"Longest Diameter for Extranodal Lesions","Measurable",22.7575110152298,NA
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 2","Non-Target","NT1","Breast",2026-08-20,NA,NA,NA,"Present"
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 2","Non-Target","NT2","Kideny",2026-08-20,NA,NA,NA,"Present"
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 2","Target","T1","Ovary",2026-08-20,"Longest Diameter for Extranodal Lesions","Measurable",31.4683762305948,NA
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 2","Target","T2","Esophagus",2026-08-20,"Longest Diameter for Extranodal Lesions","Measurable",19.9513746767446,NA
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 3","New Lesion","NEW1","Kideny",2026-09-30,"Longest Diameter for Extranodal Lesions","Measurable",23.4080885880029,NA
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 3","Non-Target","NT1","Breast",2026-09-30,NA,NA,NA,"Present"
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 3","Non-Target","NT2","Kideny",2026-09-30,NA,NA,NA,"Present"
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 3","Target","T1","Ovary",2026-09-30,"Longest Diameter for Extranodal Lesions","Measurable",46.3140869283489,NA
+"SUBJID21",2026-05-27,"400 mg","Post-Baseline 3","Target","T2","Esophagus",2026-09-30,"Longest Diameter for Extranodal Lesions","Measurable",32.9358430808564,NA
+"SUBJID22",2026-05-15,"200 mg","Screening","Non-Target","NT1","Adrenal Gland",2026-05-17,NA,NA,NA,NA
+"SUBJID22",2026-05-15,"200 mg","Screening","Non-Target","NT2","Lung",2026-05-17,NA,NA,NA,NA
+"SUBJID22",2026-05-15,"200 mg","Screening","Non-Target","NT3","Ovary",2026-05-17,NA,NA,NA,NA
+"SUBJID22",2026-05-15,"200 mg","Screening","Target","T1","Larynx",2026-05-17,"Longest Diameter for Extranodal Lesions","Measurable",23.7136970867268,NA
+"SUBJID22",2026-05-15,"200 mg","Screening","Target","T2","Bone",2026-05-17,"Longest Diameter for Extranodal Lesions","Measurable",33.0253522491251,NA
+"SUBJID22",2026-05-15,"200 mg","Screening","Target","T3","Bladder",2026-05-17,"Longest Diameter for Extranodal Lesions","Measurable",109.733760611745,NA
+"SUBJID22",2026-05-15,"200 mg","Screening","Target","T4","Kideny",2026-05-17,"Longest Diameter for Extranodal Lesions","Measurable",56.6315764347858,NA
+"SUBJID22",2026-05-15,"200 mg","Screening","Target","T5","Other",2026-05-17,"Longest Diameter for Extranodal Lesions","Measurable",74.9892504586565,NA
+"SUBJID22",2026-05-15,"200 mg","Post-Baseline 1","Non-Target","NT1","Adrenal Gland",2026-06-25,NA,NA,NA,"Present"
+"SUBJID22",2026-05-15,"200 mg","Post-Baseline 1","Non-Target","NT2","Lung",2026-06-25,NA,NA,NA,"Present"
+"SUBJID22",2026-05-15,"200 mg","Post-Baseline 1","Non-Target","NT3","Ovary",2026-06-25,NA,NA,NA,"Present"
+"SUBJID22",2026-05-15,"200 mg","Post-Baseline 1","Target","T1","Larynx",2026-06-25,"Longest Diameter for Extranodal Lesions","Measurable",14.8273652307841,NA
+"SUBJID22",2026-05-15,"200 mg","Post-Baseline 1","Target","T2","Bone",2026-06-25,"Longest Diameter for Extranodal Lesions","Measurable",19.3548095297595,NA
+"SUBJID22",2026-05-15,"200 mg","Post-Baseline 1","Target","T3","Bladder",2026-06-25,"Longest Diameter for Extranodal Lesions","Measurable",103.553344427189,NA
+"SUBJID22",2026-05-15,"200 mg","Post-Baseline 1","Target","T4","Kideny",2026-06-25,"Longest Diameter for Extranodal Lesions","Measurable",50.1061478383863,NA
+"SUBJID22",2026-05-15,"200 mg","Post-Baseline 1","Target","T5","Other",2026-06-25,"Longest Diameter for Extranodal Lesions","Measurable",60.941836214189,NA
+"SUBJID23",2026-08-09,"200 mg","Screening","Non-Target","NT1","Prostate",2026-08-12,NA,NA,NA,NA
+"SUBJID23",2026-08-09,"200 mg","Screening","Target","T1","Lymph Nodes",2026-08-12,"Short Axis for Lymph Nodes","Measurable",22.1259803134888,NA
+"SUBJID23",2026-08-09,"200 mg","Post-Baseline 1","Non-Target","NT1","Prostate",2026-09-20,NA,NA,NA,"Present"
+"SUBJID23",2026-08-09,"200 mg","Post-Baseline 1","Target","T1","Lymph Nodes",2026-09-20,"Short Axis for Lymph Nodes","Measurable",16.7364216698907,NA
+"SUBJID23",2026-08-09,"200 mg","Post-Baseline 2","Non-Target","NT1","Prostate",2026-11-05,NA,NA,NA,"Present"
+"SUBJID23",2026-08-09,"200 mg","Post-Baseline 2","Target","T1","Lymph Nodes",2026-11-05,"Short Axis for Lymph Nodes","Measurable",20.9427429424372,NA
+"SUBJID24",2026-02-24,"400 mg","Screening","Non-Target","NT1","Kideny",2026-02-26,NA,NA,NA,NA
+"SUBJID24",2026-02-24,"400 mg","Screening","Non-Target","NT2","Larynx",2026-02-26,NA,NA,NA,NA
+"SUBJID24",2026-02-24,"400 mg","Screening","Target","T1","Esophagus",2026-02-26,"Longest Diameter for Extranodal Lesions","Measurable",43.0141026164746,NA
+"SUBJID24",2026-02-24,"400 mg","Screening","Target","T2","Kideny",2026-02-26,"Longest Diameter for Extranodal Lesions","Measurable",51.7910182975335,NA
+"SUBJID24",2026-02-24,"400 mg","Post-Baseline 1","New Lesion","NEW1","Ovary",2026-04-06,"Longest Diameter for Extranodal Lesions","Measurable",32.7684942143482,NA
+"SUBJID24",2026-02-24,"400 mg","Post-Baseline 1","Non-Target","NT1","Kideny",2026-04-06,NA,NA,NA,"Present"
+"SUBJID24",2026-02-24,"400 mg","Post-Baseline 1","Non-Target","NT2","Larynx",2026-04-06,NA,NA,NA,"Present"
+"SUBJID24",2026-02-24,"400 mg","Post-Baseline 1","Target","T1","Esophagus",2026-04-06,"Longest Diameter for Extranodal Lesions","Measurable",29.535039348588,NA
+"SUBJID24",2026-02-24,"400 mg","Post-Baseline 1","Target","T2","Kideny",2026-04-06,"Longest Diameter for Extranodal Lesions","Measurable",29.7323695855659,NA
+"SUBJID25",2026-11-19,"200 mg","Screening","Non-Target","NT1","Breast",2026-11-21,NA,NA,NA,NA
+"SUBJID25",2026-11-19,"200 mg","Screening","Non-Target","NT2","Ovary",2026-11-21,NA,NA,NA,NA
+"SUBJID25",2026-11-19,"200 mg","Screening","Target","T1","Bladder",2026-11-21,"Longest Diameter for Extranodal Lesions","Measurable",34.4093984934276,NA
+"SUBJID25",2026-11-19,"200 mg","Screening","Target","T2","Brain",2026-11-21,"Longest Diameter for Extranodal Lesions","Measurable",16.5097535838904,NA
+"SUBJID25",2026-11-19,"200 mg","Screening","Target","T3","Adrenal Gland",2026-11-21,"Longest Diameter for Extranodal Lesions","Measurable",39.778446090621,NA
+"SUBJID25",2026-11-19,"200 mg","Post-Baseline 1","Non-Target","NT1","Breast",2026-12-31,NA,NA,NA,"Present"
+"SUBJID25",2026-11-19,"200 mg","Post-Baseline 1","Non-Target","NT2","Ovary",2026-12-31,NA,NA,NA,"Present"
+"SUBJID25",2026-11-19,"200 mg","Post-Baseline 1","Target","T1","Bladder",2026-12-31,"Longest Diameter for Extranodal Lesions","Measurable",15.2584728313735,NA
+"SUBJID25",2026-11-19,"200 mg","Post-Baseline 1","Target","T2","Brain",2026-12-31,"Longest Diameter for Extranodal Lesions","Measurable",9.61105125208902,NA
+"SUBJID25",2026-11-19,"200 mg","Post-Baseline 1","Target","T3","Adrenal Gland",2026-12-31,"Longest Diameter for Extranodal Lesions","Measurable",21.2502993170332,NA
+"SUBJID26",2026-07-13,"300 mg","Screening","Non-Target","NT1","Larynx",2026-07-16,NA,NA,NA,NA
+"SUBJID26",2026-07-13,"300 mg","Screening","Non-Target","NT2","Other",2026-07-16,NA,NA,NA,NA
+"SUBJID26",2026-07-13,"300 mg","Screening","Target","T1","Adrenal Gland",2026-07-16,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID26",2026-07-13,"300 mg","Screening","Target","T2","Pancreas",2026-07-16,"Longest Diameter for Extranodal Lesions","Measurable",43.5341123974308,NA
+"SUBJID26",2026-07-13,"300 mg","Post-Baseline 1","Non-Target","NT1","Larynx",2026-08-26,NA,NA,NA,"Present"
+"SUBJID26",2026-07-13,"300 mg","Post-Baseline 1","Non-Target","NT2","Other",2026-08-26,NA,NA,NA,"Present"
+"SUBJID26",2026-07-13,"300 mg","Post-Baseline 1","Target","T1","Adrenal Gland",2026-08-26,"Longest Diameter for Extranodal Lesions","Measurable",12.5654739078696,NA
+"SUBJID26",2026-07-13,"300 mg","Post-Baseline 1","Target","T2","Pancreas",2026-08-26,"Longest Diameter for Extranodal Lesions","Measurable",22.7125090212396,NA
+"SUBJID27",2026-07-14,"300 mg","Screening","Non-Target","NT1","Kideny",2026-07-16,NA,NA,NA,NA
+"SUBJID27",2026-07-14,"300 mg","Screening","Non-Target","NT2","Lymph Nodes",2026-07-16,NA,NA,NA,NA
+"SUBJID27",2026-07-14,"300 mg","Screening","Non-Target","NT3","Lymph Nodes",2026-07-16,NA,NA,NA,NA
+"SUBJID27",2026-07-14,"300 mg","Screening","Target","T1","Pancreas",2026-07-16,"Longest Diameter for Extranodal Lesions","Measurable",49.5874994369604,NA
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 1","Non-Target","NT1","Kideny",2026-08-28,NA,NA,NA,"Absent"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 1","Non-Target","NT2","Lymph Nodes",2026-08-28,NA,NA,NA,"Present"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 1","Non-Target","NT3","Lymph Nodes",2026-08-28,NA,NA,NA,"Present"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 1","Target","T1","Pancreas",2026-08-28,"Longest Diameter for Extranodal Lesions","Measurable",39.0049700760686,NA
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 2","Non-Target","NT1","Kideny",2026-10-09,NA,NA,NA,"Present"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 2","Non-Target","NT2","Lymph Nodes",2026-10-09,NA,NA,NA,"Present"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 2","Non-Target","NT3","Lymph Nodes",2026-10-09,NA,NA,NA,"Present"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 2","Target","T1","Pancreas",2026-10-09,"Longest Diameter for Extranodal Lesions","Measurable",39.7840398418576,NA
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 3","Non-Target","NT1","Kideny",2026-11-19,NA,NA,NA,"Present"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 3","Non-Target","NT2","Lymph Nodes",2026-11-19,NA,NA,NA,"Absent"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 3","Non-Target","NT3","Lymph Nodes",2026-11-19,NA,NA,NA,"Present"
+"SUBJID27",2026-07-14,"300 mg","Post-Baseline 3","Target","T1","Pancreas",2026-11-19,"Longest Diameter for Extranodal Lesions","Measurable",42.4109003445895,NA
+"SUBJID28",2026-05-02,"400 mg","Screening","Non-Target","NT1","Larynx",2026-05-03,NA,NA,NA,NA
+"SUBJID28",2026-05-02,"400 mg","Screening","Non-Target","NT2","Prostate",2026-05-03,NA,NA,NA,NA
+"SUBJID28",2026-05-02,"400 mg","Screening","Target","T1","Adrenal Gland",2026-05-03,"Longest Diameter for Extranodal Lesions","Measurable",20.4924453364641,NA
+"SUBJID28",2026-05-02,"400 mg","Screening","Target","T2","Liver",2026-05-03,"Longest Diameter for Extranodal Lesions","Measurable",41.9120783770178,NA
+"SUBJID28",2026-05-02,"400 mg","Screening","Target","T3","Ovary",2026-05-03,"Longest Diameter for Extranodal Lesions","Measurable",40.6493374768111,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 1","Non-Target","NT1","Larynx",2026-06-11,NA,NA,NA,"Present"
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 1","Non-Target","NT2","Prostate",2026-06-11,NA,NA,NA,"Present"
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 1","Target","T1","Adrenal Gland",2026-06-11,"Longest Diameter for Extranodal Lesions","Measurable",12.7834856971866,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 1","Target","T2","Liver",2026-06-11,"Longest Diameter for Extranodal Lesions","Measurable",42.4959359968758,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 1","Target","T3","Ovary",2026-06-11,"Longest Diameter for Extranodal Lesions","Measurable",43.7075850212501,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 2","Non-Target","NT1","Larynx",2026-07-29,NA,NA,NA,"Absent"
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 2","Non-Target","NT2","Prostate",2026-07-29,NA,NA,NA,"Absent"
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 2","Target","T1","Adrenal Gland",2026-07-29,"Longest Diameter for Extranodal Lesions","Measurable",18.191562615856,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 2","Target","T2","Liver",2026-07-29,"Longest Diameter for Extranodal Lesions","Measurable",27.6512035521581,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 2","Target","T3","Ovary",2026-07-29,"Longest Diameter for Extranodal Lesions","Measurable",31.8502314052332,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 3","Non-Target","NT1","Larynx",2026-09-03,NA,NA,NA,"Present"
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 3","Non-Target","NT2","Prostate",2026-09-03,NA,NA,NA,"Present"
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 3","Target","T1","Adrenal Gland",2026-09-03,"Longest Diameter for Extranodal Lesions","Measurable",21.6446970053779,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 3","Target","T2","Liver",2026-09-03,"Longest Diameter for Extranodal Lesions","Measurable",29.3090370556982,NA
+"SUBJID28",2026-05-02,"400 mg","Post-Baseline 3","Target","T3","Ovary",2026-09-03,"Longest Diameter for Extranodal Lesions","Measurable",39.5979317475823,NA
+"SUBJID29",2026-11-28,"400 mg","Screening","Non-Target","NT1","Bone",2026-12-01,NA,NA,NA,NA
+"SUBJID29",2026-11-28,"400 mg","Screening","Target","T1","Pancreas",2026-12-01,"Longest Diameter for Extranodal Lesions","Measurable",36.2149752985791,NA
+"SUBJID29",2026-11-28,"400 mg","Screening","Target","T2","Ovary",2026-12-01,"Longest Diameter for Extranodal Lesions","Measurable",18.8669201366262,NA
+"SUBJID29",2026-11-28,"400 mg","Screening","Target","T3","Breast",2026-12-01,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID29",2026-11-28,"400 mg","Screening","Target","T4","Kideny",2026-12-01,"Longest Diameter for Extranodal Lesions","Measurable",68.0842107367754,NA
+"SUBJID29",2026-11-28,"400 mg","Screening","Target","T5","Other",2026-12-01,"Longest Diameter for Extranodal Lesions","Measurable",24.645681133686,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 1","Non-Target","NT1","Bone",2027-01-13,NA,NA,NA,"Present"
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 1","Target","T1","Pancreas",2027-01-13,"Longest Diameter for Extranodal Lesions","Measurable",35.7393372662121,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 1","Target","T2","Ovary",2027-01-13,"Longest Diameter for Extranodal Lesions","Measurable",15.1646618252201,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 1","Target","T3","Breast",2027-01-13,"Longest Diameter for Extranodal Lesions","Measurable",9.62638748904232,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 1","Target","T4","Kideny",2027-01-13,"Longest Diameter for Extranodal Lesions","Measurable",45.1537854061641,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 1","Target","T5","Other",2027-01-13,"Longest Diameter for Extranodal Lesions","Measurable",15.5567290197854,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 2","Non-Target","NT1","Bone",2027-02-20,NA,NA,NA,"Present"
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 2","Target","T1","Pancreas",2027-02-20,"Longest Diameter for Extranodal Lesions","Measurable",25.0599699498862,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 2","Target","T2","Ovary",2027-02-20,"Longest Diameter for Extranodal Lesions","Measurable",17.2010082008371,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 2","Target","T3","Breast",2027-02-20,"Longest Diameter for Extranodal Lesions","Measurable",14.1940880653665,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 2","Target","T4","Kideny",2027-02-20,"Longest Diameter for Extranodal Lesions","Measurable",52.6919942663312,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 2","Target","T5","Other",2027-02-20,"Longest Diameter for Extranodal Lesions","Measurable",16.9028861680104,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 3","Non-Target","NT1","Bone",2027-04-03,NA,NA,NA,"Present"
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 3","Target","T1","Pancreas",2027-04-03,"Longest Diameter for Extranodal Lesions","Measurable",37.4749533103209,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 3","Target","T2","Ovary",2027-04-03,"Longest Diameter for Extranodal Lesions","Measurable",14.8295752754716,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 3","Target","T3","Breast",2027-04-03,"Longest Diameter for Extranodal Lesions","Measurable",10.9926962221223,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 3","Target","T4","Kideny",2027-04-03,"Longest Diameter for Extranodal Lesions","Measurable",45.0210417074557,NA
+"SUBJID29",2026-11-28,"400 mg","Post-Baseline 3","Target","T5","Other",2027-04-03,"Longest Diameter for Extranodal Lesions","Measurable",20.7846680149748,NA
+"SUBJID30",2026-08-22,"400 mg","Screening","Non-Target","NT1","Kideny",2026-08-24,NA,NA,NA,NA
+"SUBJID30",2026-08-22,"400 mg","Screening","Non-Target","NT2","Lung",2026-08-24,NA,NA,NA,NA
+"SUBJID30",2026-08-22,"400 mg","Screening","Target","T1","Kideny",2026-08-24,"Longest Diameter for Extranodal Lesions","Measurable",22.8158430257793,NA
+"SUBJID30",2026-08-22,"400 mg","Screening","Target","T2","Breast",2026-08-24,"Longest Diameter for Extranodal Lesions","Measurable",36.4347730571305,NA
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 1","Non-Target","NT1","Kideny",2026-10-04,NA,NA,NA,"Present"
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 1","Non-Target","NT2","Lung",2026-10-04,NA,NA,NA,"Present"
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 1","Target","T1","Kideny",2026-10-04,"Longest Diameter for Extranodal Lesions","Measurable",16.3096884923446,NA
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 1","Target","T2","Breast",2026-10-04,"Longest Diameter for Extranodal Lesions","Measurable",19.4910712593579,NA
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 2","New Lesion","NEW1","Larynx",2026-11-14,"Longest Diameter for Extranodal Lesions","Measurable",15,NA
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 2","Non-Target","NT1","Kideny",2026-11-14,NA,NA,NA,"Present"
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 2","Non-Target","NT2","Lung",2026-11-14,NA,NA,NA,"Present"
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 2","Target","T1","Kideny",2026-11-14,"Longest Diameter for Extranodal Lesions","Measurable",22.7811321698121,NA
+"SUBJID30",2026-08-22,"400 mg","Post-Baseline 2","Target","T2","Breast",2026-11-14,"Longest Diameter for Extranodal Lesions","Measurable",31.8615795470626,NA
